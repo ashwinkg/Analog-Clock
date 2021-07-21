@@ -9,19 +9,13 @@ In this project created a simple analog clock and digital clock using HTML, CSS,
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is simple analog & digtal clock.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* HTML 5
+* CSS
+* JavaScript
 	
 ## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+To run this project, simply run the index.html file in a browser
